@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/HosangadiApp/static/js/main.4e0ade2b.js",
+    "static/js/453.c70c31cb.chunk.js": "/HosangadiApp/static/js/453.c70c31cb.chunk.js",
+    "index.html": "/HosangadiApp/index.html",
+    "main.4e0ade2b.js.map": "/HosangadiApp/static/js/main.4e0ade2b.js.map",
+    "453.c70c31cb.chunk.js.map": "/HosangadiApp/static/js/453.c70c31cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4e0ade2b.js"
+  ]
+}
