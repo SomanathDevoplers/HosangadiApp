@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/HosangadiApp/static/js/main.b1cbf2d0.js",
+    "main.js": "/HosangadiApp/static/js/main.6db9ab45.js",
     "static/js/453.c70c31cb.chunk.js": "/HosangadiApp/static/js/453.c70c31cb.chunk.js",
     "index.html": "/HosangadiApp/index.html",
-    "main.b1cbf2d0.js.map": "/HosangadiApp/static/js/main.b1cbf2d0.js.map",
+    "main.6db9ab45.js.map": "/HosangadiApp/static/js/main.6db9ab45.js.map",
     "453.c70c31cb.chunk.js.map": "/HosangadiApp/static/js/453.c70c31cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.b1cbf2d0.js"
+    "static/js/main.6db9ab45.js"
   ]
 }
